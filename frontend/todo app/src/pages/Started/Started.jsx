@@ -17,7 +17,7 @@ function Started() {
             <h1>Manage your tasks</h1>
             <p>organize, plan, and collaborate on tasks with MYtodo.Your busy life deserves this.you can manage checklist and your goal. </p>
         </div>
-        <div className="button">
+        <div className="btn1">
             <button onClick={handleClick}>Get Started</button>
         </div>
     </div>
